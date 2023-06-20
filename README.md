@@ -1,2 +1,2 @@
-# Henry-PrepCourse
-Este es un repositorio de prueba del modulo 2 de Henry
+Alejandro Albarenga 
+Este proyecto es una prueba de como crear un repositorio y clonarlo a mi computadora local
